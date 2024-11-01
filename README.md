@@ -1,5 +1,6 @@
 # Conversor de Moedas
 * Este é um projeto simples de conversor de moedas que permite ao usuário converter valores entre diferentes moedas, como Real (BRL), Dólar (USD) e Euro (EUR). Utiliza HTML, CSS e JavaScript para criar uma interface intuitiva e uma API para obter taxas de câmbio em tempo real.
+* esse projeto tem a mesma estrutura HTML e CSS que o "conversor monetario" mas este possui API e o outro não possui.
 
 # Funcionalidades
 * Conversão de moedas: Permite a conversão de valores entre Real, Dólar e Euro.
